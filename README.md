@@ -14,6 +14,11 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 - 📫 How to reach me *thisarusanduthilina@gmail.com*
 
+### My Badges:
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanduthilinathi1)
+
+
+
 ### Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
