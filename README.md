@@ -1,7 +1,7 @@
-<h1 align="center">Pasindu Aluthwalahewa</h1>
+<h1 align="center">Thisaru Sanduthilina</h1>
 <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
-I'm Pasindu Aluthwalahewa, a dedicated software engineering student. I am passionate about coding and problem-solving.
+I'm Thisaru Sanduthilina, a dedicated software engineering student. I am passionate about coding and problem-solving.
 Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
 
 💻 Specializing in Java programming, I love diving deep into the world of software development to create robust and efficient applications.
@@ -12,11 +12,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 🌟 Let's connect and collaborate on exciting projects together!
 
-- 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindualuthwalahewa.me/)
-
-- 📝 I regularly write articles on [https://blog.pasindualuthwalahewa.me/](https://blog.pasindualuthwalahewa.me/)
-
-- 📫 How to reach me *pasindualuthwalahewa@gmail.com*
+- 📫 How to reach me *thisarusanduthilina@gmail.com*
 
 ### Languages and Tools:
 
@@ -55,8 +51,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/)
-[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://pasindualuthwalahewa.me/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aluthwalahewapa1)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pasindualuthwalahewa/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029046765112)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisaru-sanduthilina-02b4952b1/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanduthilinathi1)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thisarusanduthilina/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sanduthilina.thisaru)
