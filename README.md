@@ -12,7 +12,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 🌟 Let's connect and collaborate on exciting projects together!
 
-- 📫 How to reach me *thisarusanduthilina@gmail.com*
+- 📫 How to reach me *sanduthilinathisaru@gmail.com*
 
 ### My Badges:
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanduthilinathi1)
