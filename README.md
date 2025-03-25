@@ -1,7 +1,7 @@
 <h1 align="center">Thisaru Sanduthilina</h1>
 <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
-I'm Thisaru Sanduthilina, a dedicated software engineering student. I am passionate about coding and problem-solving.
+I'm Thisaru Sanduthilina, a dedicated software engineer. I am passionate about coding and problem-solving.
 Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
 
 💻 Specializing in Java programming, I love diving deep into the world of software development to create robust and efficient applications.
